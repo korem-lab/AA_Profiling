@@ -1,6 +1,6 @@
 # AA_Profiling
 
-Amino acid composition profiling of prokaryotic genomes and vaginal metagenomes, done with the Korem Lab (PMG, Columbia University).
+Amino acid composition profiling of prokaryotic genomes and vaginal metagenomes, done with the Korem Lab (PMG, Columbia University). Thank you to Izaak Coleman for his guidance on this project.
 
 ## Projects
 
